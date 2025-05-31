@@ -1,0 +1,19 @@
+# Jar Files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Build artifacts
+target/
+build/
+
+# OS generated files
+.DS_Store
+.localized
